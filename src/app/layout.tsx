@@ -10,8 +10,8 @@ import NextUiProviderCustom from "./NextUIProviderCustom";
 import { ToastContainer } from "react-toastify";
 
 export const metadata: Metadata = {
-  title: "Story of my health",
-  description: "Une application de suivie médical",
+  title: "Help me",
+  description: "",
 };
 
 export default function RootLayout({

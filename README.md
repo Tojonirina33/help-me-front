@@ -1,4 +1,3 @@
-## Story of my health - Frontend
 ## Prerequistes
 Before you begin, make sure you have the following installed on your machine:
 
@@ -7,7 +6,7 @@ Before you begin, make sure you have the following installed on your machine:
 
 ## Clone the Repository
 ```bash
-git clone https://github.com/Story-Of-My-Health/frontend.git
+git clone https://github.com/Tojonirina33/help-me-front.git
 ```
 
 ## Instal dependencies
